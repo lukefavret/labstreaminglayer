@@ -1,9 +1,9 @@
 Quick Start
 ###########
 
-The **lab streaming layer** (LSL) is a system for the unified collection of measurement time series
-in research experiments that handles both the networking, time-synchronization, (near-) real-time
-access as well as optionally the centralized collection, viewing and disk recording of the data.
+**Lab streaming layer** (LSL) is a system for the unified collection of measurement time series
+in research experiments which handles the networking, time-synchronization, (near-) real-time
+access, and, optionally, the centralized collection, viewing and disk recording of data.
 
 The most up-to-date version of this document can always be found in the
 `main repository README <https://github.com/sccn/labstreaminglayer/>`_ and the
@@ -13,7 +13,7 @@ The most common way to use LSL is to use one or more applications with integrate
 to stream data from one or more devices (e.g., EEG and eye trackers) and from a task application 
 (NBS Presentation, PsychoPy, etc.) over the local network and record the data with LabRecorder.
 
-Most LSL Applications will come bundled with its own copy of the LSL library (i.e., lsl.dll for a Windows application).
+Most LSL Applications will come bundled with their own copy of the LSL library (i.e., lsl.dll for a Windows application).
 However, many applications and interfaces (e.g., like pylsl) do not ship with liblsl.dylib or liblsl.so on Mac or Linux, respectively.
 In those cases, it is necessary to install liblsl separately and make it available to the application or interface.
 See the `liblsl repo <https://github.com/sccn/liblsl>`_ for more info.
@@ -45,10 +45,10 @@ When you land in a new repository then be sure to read its README and look at it
 Getting Help
 ############
 
-If you are having trouble with LSL then there are few things you can do to get help.
+If you are having trouble with LSL, then there are few things you can do to get help:
 
 * `Read the docs <https://labstreaminglayer.readthedocs.io/>`_
 * Search GitHub issues in the `main repository <https://github.com/sccn/labstreaminglayer>`_, in the old `archived repository <https://github.com/sccn/lsl_archived>`_, and in the submodule for your App or language interface of interest.
-* Create a new GitHub issue. Please use the repository specific to the item you are having difficulty with. e.g. if you are having trouble with LabRecorder then open a new issue in its repository. If you don't know which repository is best then you can use the parent sccn/labstreaminglayer repository.
+* Create a new GitHub issue. Please use the repository specific to the item you are having difficulty with. e.g. if you are having trouble with LabRecorder then open a new issue in its repository. If you don't know which repository is best, then you can use the parent sccn/labstreaminglayer repository.
 * Join the LabStreamingLayer `#users` channel on Slack. `Invite Link <https://join.slack.com/t/labstreaminglayer/shared_invite/enQtMzA2NjEwNDk0NjA5LTcyYWI4ZDk5OTY5MGI2YWYxNmViNjhkYWRhZTkwYWM0ODY0Y2M0YzdlZDRkZTg1OTUwZDU2M2UwNDgwYzUzNDg>`_. Someone there may be able to get to the bottom of your problem through conversation.
 * You may also wish to try the very new `labstreaminglayer.org forum <https://forum.labstreaminglayer.org/>`_
