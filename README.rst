@@ -58,30 +58,30 @@ If you are having trouble with LSL then there are few things you can do to get h
 Cite LSL
 ############
 
-   If you are using LSL in your research, please consider citing the Lab Streaming Layer paper
-   published in Imaging Neuroscience. This will help track the use of LSL in emerging research
-   and support continued development of the framework:
+If you are using LSL in your research, please consider citing the Lab Streaming Layer paper
+published in Imaging Neuroscience. This will help track the use of LSL in emerging research
+and support continued development of the framework:
 
-   Kothe, C., Shirazi, S. Y., Stenner, T., Medine, D., Boulay, C., Grivich, M. I., Artoni, F.,
-   Mullen, T., Delorme, A., & Makeig, S. (2025). The Lab Streaming Layer for Synchronized
-   Multimodal Recording. *Imaging Neuroscience*, 3, IMAG.a.136.
-   https://doi.org/10.1162/IMAG.a.136
+Kothe, C., Shirazi, S. Y., Stenner, T., Medine, D., Boulay, C., Grivich, M. I., Artoni, F.,
+Mullen, T., Delorme, A., & Makeig, S. (2025). The Lab Streaming Layer for Synchronized
+Multimodal Recording. *Imaging Neuroscience*, 3, IMAG.a.136.
+https://doi.org/10.1162/IMAG.a.136
 
-   **BibTeX entry:**
+**BibTeX entry:**
 
-   .. code-block:: bibtex
+.. code-block:: bibtex
 
-      @article{kothe2025lab,
-        title={The Lab Streaming Layer for Synchronized Multimodal Recording},
-        author={Kothe, Christian and Shirazi, Seyed Yahya and Stenner, Tristan and Medine, David
-                and Boulay, Chadwick and Grivich, Matthew I. and Artoni, Fiorenzo and Mullen, Tim
-                and Delorme, Arnaud and Makeig, Scott},
-        journal={Imaging Neuroscience},
-        volume={3},
-        pages={IMAG.a.136},
-        year={2025},
-        publisher={MIT Press},
-        doi={10.1162/IMAG.a.136},
-        url={https://doi.org/10.1162/IMAG.a.136},
-        note={Open Access}
-      }
+  @article{kothe2025lab,
+    title={The Lab Streaming Layer for Synchronized Multimodal Recording},
+    author={Kothe, Christian and Shirazi, Seyed Yahya and Stenner, Tristan and Medine, David
+            and Boulay, Chadwick and Grivich, Matthew I. and Artoni, Fiorenzo and Mullen, Tim
+            and Delorme, Arnaud and Makeig, Scott},
+    journal={Imaging Neuroscience},
+    volume={3},
+    pages={IMAG.a.136},
+    year={2025},
+    publisher={MIT Press},
+    doi={10.1162/IMAG.a.136},
+    url={https://doi.org/10.1162/IMAG.a.136},
+    note={Open Access}
+  }
