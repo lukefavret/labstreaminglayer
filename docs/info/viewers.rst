@@ -9,6 +9,7 @@ A part of any LSL workbench should be a reliable way to monitor your data. Thus,
 
 Stand-alone online viewers:
 
+  * `MNE-LSL Player<https://mne.tools/mne-lsl/stable/generated/tutorials/20_player_annotations.html#sphx-glr-generated-tutorials-20-player-annotations-py>`__
   * `StreamViewer <https://github.com/intheon/stream_viewer>`__
   
     .. image:: ../images/stream_viewer-LineVis.gif
